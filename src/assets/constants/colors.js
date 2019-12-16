@@ -1,0 +1,21 @@
+export default colors = {
+  white: '#FFFFFF',
+  green: '#86c033',
+  green2: '#71BA39',
+  greenOverview: '#5bb5ba',
+  orange: '#F19676',
+  gray1: '#f1f2f4',
+  gray2: '#98a9bc',
+  gray3: '#dadfe1',
+  gray4: '#cccccc',
+  dark: '#252631',
+  gold: '#FFBE00',
+  background1: '#F2F4F6',
+  purple: '#c899c4',
+  red: '#e74c3c',
+  yellow: '#FFF000',
+  pink1: '#ef8b94',
+  pink2: '#f7c5c6',
+  pink3: '#f3a8ac',
+  pink4: '#e34545'
+}
